@@ -1,0 +1,31 @@
+[
+    {
+        "title": "1. GARDENIA SUITE",
+        "position":{
+            "lat": 49.2219114,
+            "lng": -122.9874893
+        }
+    },
+    {
+        "title": "2. TWO BEDROOMS",
+        "position":{
+            "lat": 49.2276667,
+            "lng": -123.1356893
+        }
+    },
+    {
+        "title": "3. COMFY",
+        "position":{
+            "lat": 49.2393331,
+            "lng": -123.0786039
+        }
+    }
+    ,
+    {
+        "title": "SUNNY ITALIAN",
+        "position":{
+            "lat": 49.21301,
+            "lng": -122.990676
+        }
+    }
+]
